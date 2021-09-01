@@ -1,0 +1,14 @@
+210604	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210604_NB552525_0046_AHTFF3AFX2
+210705	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210705_H212580490
+210604	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210604_NS500628_0163_AHVKFWAFX2
+210606	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210606_NB552525_0048_AHTGMTAFX2
+210617	/phengs/hpc_storage/home/dbibby/FASTQs/CoV
+210628	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210628_M01760_0088_000000000-JM7CR
+210720	/phengs/hpc_storage/home/dbibby
+210628	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210628_M03912_0083_000000000-JMRGF
+210612	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210612_NB552525_0054_AHT5WKAFX2
+210606	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210606_NS552079_0146_AHTGN3AFX2
+210604	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210604_NS552079_0145_AHVKFGAFX2
+210625	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210625_M01760_0087_000000000-JMFRM
+210610	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210610_NS552083_0141_AHTCKVAFX2
+210716	/phengs/hpc_storage/home/dbibby/FASTQs/CoV/210716_NS552079_0180_AHW7W3BGXH
